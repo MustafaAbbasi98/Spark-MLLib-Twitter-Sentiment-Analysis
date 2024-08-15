@@ -1,6 +1,8 @@
 # Spark-MLLib-Twitter-Sentiment-Analysis
 Sentiment Analysis on the Kaggle Sentiment140 Dataset with PySpark and MLLib
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MustafaAbbasi98/Spark-MLLib-Twitter-Sentiment-Analysis/blob/main/PySpark_MLLib_Tweet_Sentiment_Analysis.ipynb)
+
 
 ## Description
 This repository contains a jupyter notebook for preprocessing and training a `RandomForest` model with `PySpark` and `MLLib`.
