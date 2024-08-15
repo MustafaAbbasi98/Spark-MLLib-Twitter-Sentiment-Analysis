@@ -12,7 +12,7 @@ This repository contains a jupyter notebook for preprocessing and training a `Ra
 
 ## Overview
 The notebook shows how to achieve the following tasks:
-1. Installing and setting up PySpark (espeically on Colab).
+1. Installing and setting up PySpark (especially on Colab).
 2. Setting up kaggle and downloading the [Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140) dataset for sentiment analysis.
 3. Loading dataset in either Pandas or Spark.
 4. Using the pandas-on-spark dataframe (Spark pandas api) to perform pandas-like processing on dataframes using Spark.
